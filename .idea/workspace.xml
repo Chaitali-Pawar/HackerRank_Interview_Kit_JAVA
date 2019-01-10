@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee3dd23c-7479-497c-9011-8f69c69695fd" name="Default Changelist" comment="" />
+    <list default="true" id="ee3dd23c-7479-497c-9011-8f69c69695fd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_HackerRank_Programs/Solve_String_Anagram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_HackerRank_Programs/Solve_String_Anagram_Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_HackerRank_Programs/Solver_String_Anagram.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Solve_String_Anagram.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
-              <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+            <state relative-caret-position="185">
+              <caret line="13" lean-forward="true" selection-end-line="32" />
             </state>
           </provider>
         </entry>
@@ -50,6 +55,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -75,6 +83,7 @@
     <option name="width" value="1890" />
     <option name="height" value="960" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -105,7 +114,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547070016065" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547070389014" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Sorting_Hacker_Rank" />
   </component>
   <component name="RecentsManager">
@@ -164,9 +173,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Solve_String_Anagram_Test_test - 2019.01.09 at 16h 19m 08s.xml">
-      <configuration name="Solve_String_Anagram_Test.test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Solve_String_Anagram_Test_test - 2019.01.09 at 16h 23m 30s.xml">
       <configuration name="Solve_String_Anagram_Test.test" configurationId="JUnit" />
     </history-entry>
@@ -194,6 +200,9 @@
     <history-entry file="Solve_String_Anagram_Test_test - 2019.01.09 at 16h 34m 38s.xml">
       <configuration name="Solve_String_Anagram_Test.test" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Solve_String_Anagram_Test_test - 2019.01.09 at 16h 46m 41s.xml">
+      <configuration name="Solve_String_Anagram_Test.test" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -213,7 +222,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.31616342" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.19360569" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.19360569" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -320,8 +329,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Solve_String_Anagram.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        <state relative-caret-position="185">
+          <caret line="13" lean-forward="true" selection-end-line="32" />
         </state>
       </provider>
     </entry>
