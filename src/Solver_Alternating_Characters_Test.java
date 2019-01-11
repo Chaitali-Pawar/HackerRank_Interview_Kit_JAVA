@@ -9,5 +9,6 @@ public class Solver_Alternating_Characters_Test {
         Assert.assertEquals(solver.getNumberOfDeletions("AABAAB"),2);
         Assert.assertEquals(solver.getNumberOfDeletions("AAAA"),3);
         Assert.assertEquals(solver.getNumberOfDeletions("BBBBB"),4);
+        Assert.assertEquals(solver.getNumberOfDeletions("BBBBB"),4);
     }
 }
