@@ -2,10 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee3dd23c-7479-497c-9011-8f69c69695fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Solver_Sherlock_Valid_String.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solver_Sherlock_Valid_String_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solver_Common_Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solver_Common_Child_Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solver_Alternating_Characters_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solver_Alternating_Characters_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_HackerRank_Programs/SolveAlternatingCharacters.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_HackerRank_Programs/Solve_Sherlock_Valid_String.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_HackerRank_Programs/Solve_String_Anagram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_HackerRank_Programs/Solver_Alternating_Characters.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_HackerRank_Programs/Solver_Alternating_Characters_Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_HackerRank_Programs/Solver_Sherlock_Valid_String.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_HackerRank_Programs/Solver_Sherlock_Valid_String_Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_HackerRank_Programs/Solver_String_Anagram.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,7 +50,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Solver_Alternating_Characters_Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
+            <state relative-caret-position="170">
               <caret line="11" column="62" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="62" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -52,11 +59,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Solver_Sherlock_Valid_String.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-90">
-              <caret line="31" column="43" lean-forward="true" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
+            <state relative-caret-position="235">
+              <caret line="52" column="33" selection-start-line="52" selection-start-column="33" selection-end-line="52" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Solver_Common_Child.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="383">
+              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Solver_Common_Child_Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="56" lean-forward="true" selection-start-line="8" selection-start-column="56" selection-end-line="8" selection-end-column="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -64,7 +92,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Solver_Sherlock_Valid_String_Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
+            <state relative-caret-position="170">
               <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -94,6 +122,8 @@
         <option value="$PROJECT_DIR$/src/Solver_Alternating_Characters_Test.java" />
         <option value="$PROJECT_DIR$/src/Solver_Sherlock_Valid_String_Test.java" />
         <option value="$PROJECT_DIR$/src/Solver_Sherlock_Valid_String.java" />
+        <option value="$PROJECT_DIR$/src/Solver_Common_Child_Test.java" />
+        <option value="$PROJECT_DIR$/src/Solver_Common_Child.java" />
       </list>
     </option>
   </component>
@@ -151,7 +181,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547244586872" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547255844819" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
@@ -171,14 +201,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Solver_Sherlock_Valid_String_Test.test">
-    <configuration name="Solve_String_Anagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solve_String_Anagram" />
-      <module name="Java_HackerRank_Programs" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.Solver_Common_Child_Test.test">
     <configuration name="Solve_String_Anagram_Test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_HackerRank_Programs" />
       <option name="PACKAGE_NAME" value="" />
@@ -193,6 +216,16 @@
       <module name="Java_HackerRank_Programs" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Solver_Alternating_Characters_Test" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solver_Common_Child_Test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java_HackerRank_Programs" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Solver_Common_Child_Test" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -219,11 +252,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Solver_Common_Child_Test.test" />
         <item itemvalue="JUnit.Solver_Sherlock_Valid_String_Test.test" />
         <item itemvalue="JUnit.Solver_Alternating_Characters_Test.test" />
         <item itemvalue="JUnit.Solver_Sherlock_Valid_String_Test" />
         <item itemvalue="JUnit.Solve_String_Anagram_Test.test" />
-        <item itemvalue="Application.Solve_String_Anagram" />
       </list>
     </recent_temporary>
   </component>
@@ -241,43 +274,43 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Solver_Sherlock_Valid_String_Test_test - 2019.01.11 at 10h 46m 01s.xml">
-      <configuration name="Solver_Sherlock_Valid_String_Test.test" configurationId="JUnit" />
+    <history-entry file="Solver_Common_Child_Test_test - 2019.01.11 at 19h 48m 02s.xml">
+      <configuration name="Solver_Common_Child_Test.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solver_Sherlock_Valid_String_Test_test - 2019.01.11 at 10h 48m 59s.xml">
-      <configuration name="Solver_Sherlock_Valid_String_Test.test" configurationId="JUnit" />
+    <history-entry file="Solver_Common_Child_Test_test - 2019.01.11 at 19h 51m 57s.xml">
+      <configuration name="Solver_Common_Child_Test.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solver_Sherlock_Valid_String_Test_test - 2019.01.11 at 10h 49m 23s.xml">
-      <configuration name="Solver_Sherlock_Valid_String_Test.test" configurationId="JUnit" />
+    <history-entry file="Solver_Common_Child_Test_test - 2019.01.11 at 19h 52m 48s.xml">
+      <configuration name="Solver_Common_Child_Test.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solver_Sherlock_Valid_String_Test_test - 2019.01.11 at 10h 49m 52s.xml">
-      <configuration name="Solver_Sherlock_Valid_String_Test.test" configurationId="JUnit" />
+    <history-entry file="Solver_Common_Child_Test_test - 2019.01.11 at 19h 53m 18s.xml">
+      <configuration name="Solver_Common_Child_Test.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solver_Sherlock_Valid_String_Test_test - 2019.01.11 at 10h 55m 01s.xml">
-      <configuration name="Solver_Sherlock_Valid_String_Test.test" configurationId="JUnit" />
+    <history-entry file="Solver_Common_Child_Test_test - 2019.01.11 at 19h 54m 46s.xml">
+      <configuration name="Solver_Common_Child_Test.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solver_Sherlock_Valid_String_Test_test - 2019.01.11 at 10h 56m 23s.xml">
-      <configuration name="Solver_Sherlock_Valid_String_Test.test" configurationId="JUnit" />
+    <history-entry file="Solver_Common_Child_Test_test - 2019.01.11 at 19h 56m 32s.xml">
+      <configuration name="Solver_Common_Child_Test.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solver_Sherlock_Valid_String_Test_test - 2019.01.11 at 10h 57m 12s.xml">
-      <configuration name="Solver_Sherlock_Valid_String_Test.test" configurationId="JUnit" />
+    <history-entry file="Solver_Common_Child_Test_test - 2019.01.11 at 19h 58m 17s.xml">
+      <configuration name="Solver_Common_Child_Test.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solver_Sherlock_Valid_String_Test_test - 2019.01.11 at 10h 57m 50s.xml">
-      <configuration name="Solver_Sherlock_Valid_String_Test.test" configurationId="JUnit" />
+    <history-entry file="Solver_Common_Child_Test_test - 2019.01.11 at 19h 59m 29s.xml">
+      <configuration name="Solver_Common_Child_Test.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solver_Sherlock_Valid_String_Test_test - 2019.01.11 at 10h 59m 35s.xml">
-      <configuration name="Solver_Sherlock_Valid_String_Test.test" configurationId="JUnit" />
+    <history-entry file="Solver_Common_Child_Test_test - 2019.01.11 at 19h 59m 54s.xml">
+      <configuration name="Solver_Common_Child_Test.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solver_Sherlock_Valid_String_Test_test - 2019.01.11 at 10h 59m 49s.xml">
-      <configuration name="Solver_Sherlock_Valid_String_Test.test" configurationId="JUnit" />
+    <history-entry file="Solver_Common_Child_Test_test - 2019.01.11 at 20h 16m 51s.xml">
+      <configuration name="Solver_Common_Child_Test.test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2534413" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4990619" visible="true" weight="0.25020242" />
+      <window_info id="Structure" order="1" sideWeight="0.50093806" side_tool="true" visible="true" weight="0.25020242" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -285,8 +318,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22202487" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.26642984" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.053285968" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.28596804" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -294,7 +327,6 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3285968" />
-      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.32955465" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="right" id="Capture Analysis" order="2" />
@@ -303,6 +335,7 @@
       <window_info anchor="right" id="Maven" order="5" weight="0.32955465" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.24939272" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32955465" />
     </layout>
     <layout-to-restore>
       <window_info id="Image Layers" order="0" />
@@ -378,6 +411,24 @@
           <properties />
           <option name="timeStamp" value="27" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solver_Common_Child.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solver_Common_Child.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solver_Common_Child.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -391,6 +442,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solve_String_Anagram_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -408,27 +469,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Solver_Alternating_Characters_Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
+        <state relative-caret-position="170">
           <caret line="11" column="62" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="62" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solve_String_Anagram_Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -437,7 +481,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Solver_Sherlock_Valid_String_Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
+        <state relative-caret-position="170">
           <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -445,10 +489,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Solver_Sherlock_Valid_String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-90">
-          <caret line="31" column="43" lean-forward="true" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
+        <state relative-caret-position="235">
+          <caret line="52" column="33" selection-start-line="52" selection-start-column="33" selection-end-line="52" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solver_Common_Child_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="56" lean-forward="true" selection-start-line="8" selection-start-column="56" selection-end-line="8" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solver_Common_Child.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
         </state>
       </provider>
     </entry>
