@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Java_HackerRank_Programs.iml" filepath="$PROJECT_DIR$/Java_HackerRank_Programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HackerRank_Interview_Kit_JAVA.iml" filepath="$PROJECT_DIR$/HackerRank_Interview_Kit_JAVA.iml" />
     </modules>
   </component>
 </project>
