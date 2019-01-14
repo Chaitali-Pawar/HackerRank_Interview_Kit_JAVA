@@ -21,10 +21,6 @@ class Solve_Minimum_Swaps{
     public int getMinimumNumberOfSwaps(int [] inputArray){
         int minimum_number_of_swaps = 0;
         int [] sorted_input_array = Arrays.copyOf(inputArray,inputArray.length);
-        final HashMap<Integer,Integer> inputArrayMap = new HashMap<>();
-        for(int i=0;i<inputArray.length;i++){
-            inputArrayMap.put(inputArray[i],i);
-        }
         // sort the original array
         Arrays.sort(sorted_input_array);
         for(int i=0;i<inputArray.length;i++){
