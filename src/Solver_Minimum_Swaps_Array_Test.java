@@ -13,6 +13,8 @@ public class Solver_Minimum_Swaps_Array_Test {
         Assert.assertEquals(solve.getMinimumNumberOfSwaps(input_Array_1) ,3);
         Assert.assertEquals(solve.getMinimumNumberOfSwaps(input_Array_2) ,3);
         Assert.assertEquals(solve.getMinimumNumberOfSwaps(input_Array_3) ,3);
+        String s="test";
+        System.out.println(s.contains("se"));
 
     }
 

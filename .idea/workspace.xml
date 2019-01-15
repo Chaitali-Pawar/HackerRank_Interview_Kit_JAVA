@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd39aa08-3efe-41fa-b417-25e765ecee5c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/InputReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solver_Luck_Balance_Greedy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solver_Luck_Balance_Greedy_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solver_Minimum_Absolute_Difference_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solver_Minimum_Absolute_Diiference_Greedy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank_Interview_Kit_JAVA/Solve_Minimum_Swaps.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank_Interview_Kit_JAVA/Solve_Minimum_Swaps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank_Interview_Kit_JAVA/Solver_Minimum_Swaps_Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank_Interview_Kit_JAVA/Solver_Minimum_Swaps_Array.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank_Interview_Kit_JAVA/Solver_Minimum_Swaps_Array_Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank_Interview_Kit_JAVA/Solver_Minimum_Swaps_Array_Test.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Solver_Minimum_Swaps_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solver_Minimum_Swaps_Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solver_Minimum_Swaps_Array_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solver_Minimum_Swaps_Array_Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,17 +26,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Solver_Special_Palindromic_String.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="561">
               <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Solver_Minimum_Swaps_Array.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="22" column="80" selection-start-line="22" selection-start-column="80" selection-end-line="22" selection-end-column="80" />
+            <state relative-caret-position="51">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -35,10 +45,44 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Solver_Minimum_Swaps_Array_Test.java">
+        <entry file="file://$PROJECT_DIR$/src/Solver_Minimum_Absolute_Diiference_Greedy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Solver_Luck_Balance_Greedy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="354">
+              <caret line="40" column="9" lean-forward="true" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/InputReader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="2" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2867#2868#0" expanded="true" />
+                <element signature="e#2903#2904#0" expanded="true" />
+                <element signature="e#4470#4471#0" expanded="true" />
+                <element signature="e#4551#4552#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Solver_Luck_Balance_Greedy_Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="115" selection-start-line="11" selection-start-column="115" selection-end-line="11" selection-end-column="115" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -61,8 +105,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Solver_Minimum_Swaps_Array_Test.java" />
         <option value="$PROJECT_DIR$/src/Solver_Minimum_Swaps_Array.java" />
+        <option value="$PROJECT_DIR$/src/Solver_Minimum_Swaps_Array_Test.java" />
+        <option value="$PROJECT_DIR$/src/Solver_Minimum_Absolute_Difference_Test.java" />
+        <option value="$PROJECT_DIR$/src/InputReader.java" />
+        <option value="$PROJECT_DIR$/src/Solver_Minimum_Absolute_Diiference_Greedy.java" />
+        <option value="$PROJECT_DIR$/src/Solver_Luck_Balance_Greedy.java" />
+        <option value="$PROJECT_DIR$/src/Solver_Luck_Balance_Greedy_Test.java" />
       </list>
     </option>
   </component>
@@ -77,6 +126,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -93,20 +143,13 @@
               <item name="HackerRank_Interview_Kit_JAVA" type="b2602c69:ProjectViewProjectNode" />
               <item name="HackerRank_Interview_Kit_JAVA" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Solve_String_Anagram.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="HackerRank_Interview_Kit_JAVA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HackerRank_Interview_Kit_JAVA" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Solver_Special_Palindromic_String.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="Solver_Luck_Balance_Greedy.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -114,7 +157,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547429610649" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547511533403" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
@@ -129,7 +172,45 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.Solver_Luck_Balance_Greedy_Test.test">
+    <configuration name="Solver_Luck_Balance_Greedy_Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HackerRank_Interview_Kit_JAVA" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Solver_Luck_Balance_Greedy_Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solver_Luck_Balance_Greedy_Test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HackerRank_Interview_Kit_JAVA" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Solver_Luck_Balance_Greedy_Test" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solver_Minimum_Absolute_Difference_Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HackerRank_Interview_Kit_JAVA" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Solver_Minimum_Absolute_Difference_Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solver_Minimum_Absolute_Difference_Test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HackerRank_Interview_Kit_JAVA" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Solver_Minimum_Absolute_Difference_Test" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solver_Minimum_Swaps_Array_Test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="HackerRank_Interview_Kit_JAVA" />
       <option name="PACKAGE_NAME" value="" />
@@ -142,6 +223,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Solver_Luck_Balance_Greedy_Test.test" />
+        <item itemvalue="JUnit.Solver_Luck_Balance_Greedy_Test" />
+        <item itemvalue="JUnit.Solver_Minimum_Absolute_Difference_Test.test" />
+        <item itemvalue="JUnit.Solver_Minimum_Absolute_Difference_Test" />
         <item itemvalue="JUnit.Solver_Minimum_Swaps_Array_Test.test" />
       </list>
     </recent_temporary>
@@ -160,42 +245,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Solver_Minimum_Swaps_Array_Test_test - 2019.01.13 at 12h 27m 22s.xml">
-      <configuration name="Solver_Minimum_Swaps_Array_Test.test" configurationId="JUnit" />
+    <history-entry file="Solver_Minimum_Absolute_Difference_Test_test - 2019.01.14 at 18h 08m 53s.xml">
+      <configuration name="Solver_Minimum_Absolute_Difference_Test.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solver_Minimum_Swaps_Array_Test_test - 2019.01.13 at 12h 29m 53s.xml">
-      <configuration name="Solver_Minimum_Swaps_Array_Test.test" configurationId="JUnit" />
+    <history-entry file="Solver_Minimum_Absolute_Difference_Test - 2019.01.14 at 18h 10m 16s.xml">
+      <configuration name="Solver_Minimum_Absolute_Difference_Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solver_Minimum_Swaps_Array_Test_test - 2019.01.13 at 12h 32m 38s.xml">
-      <configuration name="Solver_Minimum_Swaps_Array_Test.test" configurationId="JUnit" />
+    <history-entry file="Solver_Minimum_Absolute_Difference_Test - 2019.01.14 at 18h 11m 31s.xml">
+      <configuration name="Solver_Minimum_Absolute_Difference_Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solver_Minimum_Swaps_Array_Test_test - 2019.01.13 at 12h 35m 23s.xml">
-      <configuration name="Solver_Minimum_Swaps_Array_Test.test" configurationId="JUnit" />
+    <history-entry file="Solver_Minimum_Absolute_Difference_Test - 2019.01.14 at 18h 11m 58s.xml">
+      <configuration name="Solver_Minimum_Absolute_Difference_Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solver_Minimum_Swaps_Array_Test_test - 2019.01.13 at 12h 41m 05s.xml">
-      <configuration name="Solver_Minimum_Swaps_Array_Test.test" configurationId="JUnit" />
+    <history-entry file="Solver_Minimum_Absolute_Difference_Test_test - 2019.01.14 at 18h 14m 00s.xml">
+      <configuration name="Solver_Minimum_Absolute_Difference_Test.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solver_Minimum_Swaps_Array_Test_test - 2019.01.13 at 20h 11m 51s.xml">
-      <configuration name="Solver_Minimum_Swaps_Array_Test.test" configurationId="JUnit" />
+    <history-entry file="Solver_Minimum_Absolute_Difference_Test_test - 2019.01.14 at 18h 14m 49s.xml">
+      <configuration name="Solver_Minimum_Absolute_Difference_Test.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solver_Minimum_Swaps_Array_Test_test - 2019.01.13 at 20h 12m 34s.xml">
-      <configuration name="Solver_Minimum_Swaps_Array_Test.test" configurationId="JUnit" />
+    <history-entry file="Solver_Minimum_Absolute_Difference_Test_test - 2019.01.14 at 18h 28m 32s.xml">
+      <configuration name="Solver_Minimum_Absolute_Difference_Test.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solver_Minimum_Swaps_Array_Test_test - 2019.01.13 at 20h 12m 46s.xml">
-      <configuration name="Solver_Minimum_Swaps_Array_Test.test" configurationId="JUnit" />
+    <history-entry file="Solver_Luck_Balance_Greedy_Test - 2019.01.14 at 19h 16m 41s.xml">
+      <configuration name="Solver_Luck_Balance_Greedy_Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solver_Minimum_Swaps_Array_Test_test - 2019.01.13 at 20h 16m 28s.xml">
-      <configuration name="Solver_Minimum_Swaps_Array_Test.test" configurationId="JUnit" />
+    <history-entry file="Solver_Luck_Balance_Greedy_Test_test - 2019.01.14 at 19h 17m 06s.xml">
+      <configuration name="Solver_Luck_Balance_Greedy_Test.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solver_Minimum_Swaps_Array_Test_test - 2019.01.13 at 20h 23m 26s.xml">
-      <configuration name="Solver_Minimum_Swaps_Array_Test.test" configurationId="JUnit" />
+    <history-entry file="Solver_Luck_Balance_Greedy_Test_test - 2019.01.14 at 19h 18m 43s.xml">
+      <configuration name="Solver_Luck_Balance_Greedy_Test.test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="34" width="1853" height="1046" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25263742" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22487506" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -204,8 +289,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.11804009" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39978212" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30289534" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3997773" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -228,39 +313,51 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Solver_Minimum_Swaps_Array.java</url>
-          <line>29</line>
+          <line>30</line>
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Solver_Minimum_Swaps_Array.java</url>
-          <line>42</line>
+          <line>43</line>
           <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Solver_Minimum_Swaps_Array.java</url>
-          <line>27</line>
+          <line>28</line>
           <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Solver_Minimum_Swaps_Array.java</url>
-          <line>26</line>
+          <line>27</line>
           <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Solver_Minimum_Swaps_Array.java</url>
-          <line>39</line>
+          <line>40</line>
           <properties />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Solver_Minimum_Swaps_Array.java</url>
-          <line>24</line>
+          <line>25</line>
           <properties />
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solver_Luck_Balance_Greedy.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solver_Luck_Balance_Greedy.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -273,25 +370,73 @@
     <entry file="file://$PROJECT_DIR$/src/Test.java" />
     <entry file="file://$PROJECT_DIR$/src/Solver_Special_Palindromic_String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="561">
           <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solver_Minimum_Swaps_Array_Test.java">
+    <entry file="file://$PROJECT_DIR$/src/Solver_Minimum_Swaps_Array.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solver_Minimum_Swaps_Array.java">
+    <entry file="file://$PROJECT_DIR$/src/Solver_Minimum_Swaps_Array_Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="22" column="80" selection-start-line="22" selection-start-column="80" selection-end-line="22" selection-end-column="80" />
+        <state relative-caret-position="136">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solver_Minimum_Absolute_Diiference_Greedy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solver_Minimum_Absolute_Difference_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InputReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2867#2868#0" expanded="true" />
+            <element signature="e#2903#2904#0" expanded="true" />
+            <element signature="e#4470#4471#0" expanded="true" />
+            <element signature="e#4551#4552#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solver_Luck_Balance_Greedy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="40" column="9" lean-forward="true" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solver_Luck_Balance_Greedy_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="115" selection-start-line="11" selection-start-column="115" selection-end-line="11" selection-end-column="115" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
