@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd39aa08-3efe-41fa-b417-25e765ecee5c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Solver_Greedy_Florist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solver_Greedy_Florist_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solver_BFS_Search_Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank_Interview_Kit_JAVA/Solve_Max_Min_Greedy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank_Interview_Kit_JAVA/Solve_Max_Min_Greedy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank_Interview_Kit_JAVA/Solve_Greedy_Florist.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank_Interview_Kit_JAVA/Solve_Greedy_Florist.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank_Interview_Kit_JAVA/Solver_Greedy_Florist.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank_Interview_Kit_JAVA/Solver_Greedy_Florist.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,27 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Solver_Special_Palindromic_String.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Solver_Minimum_Swaps_Array.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Solver_Luck_Balance_Greedy.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -50,16 +30,16 @@
         <entry file="file://$PROJECT_DIR$/src/Solver_Max_Min_Greedy.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="527">
-              <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+              <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Solver_Greedy_Florist.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+            <state relative-caret-position="306">
+              <caret line="18" selection-end-line="36" />
             </state>
           </provider>
         </entry>
@@ -68,7 +48,7 @@
         <entry file="file://$PROJECT_DIR$/src/Solver_Greedy_Florist_Test.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
-              <caret line="12" column="56" lean-forward="true" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="56" />
+              <caret line="12" column="56" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="56" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -79,7 +59,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Solve_Max_Min_Greedy_Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
+            <state relative-caret-position="340">
               <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -96,6 +76,36 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Graph.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Solver_BFS_Search.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="49" column="69" selection-start-line="49" selection-start-column="69" selection-end-line="49" selection-end-column="69" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Solver_BFS_Search_Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -139,6 +149,9 @@
         <option value="$PROJECT_DIR$/src/Solver_Max_Min_Greedy.java" />
         <option value="$PROJECT_DIR$/src/Solver_Greedy_Florist_Test.java" />
         <option value="$PROJECT_DIR$/src/Solver_Greedy_Florist.java" />
+        <option value="$PROJECT_DIR$/src/Solver_BFS_Search_Test.java" />
+        <option value="$PROJECT_DIR$/src/Graph.java" />
+        <option value="$PROJECT_DIR$/src/Solver_BFS_Search.java" />
       </list>
     </option>
   </component>
@@ -153,8 +166,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -171,6 +182,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -178,7 +191,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547673370033" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547688184185" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
@@ -193,7 +206,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Solver_Greedy_Florist_Test.test">
+  <component name="RunManager" selected="Application.Solver_BFS_Search">
+    <configuration name="Solver_BFS_Search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solver_BFS_Search" />
+      <module name="HackerRank_Interview_Kit_JAVA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solve_Max_Min_Greedy_Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="HackerRank_Interview_Kit_JAVA" />
       <option name="PACKAGE_NAME" value="" />
@@ -213,6 +233,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solver_BFS_Search_Test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HackerRank_Interview_Kit_JAVA" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Solver_BFS_Search_Test" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solver_Greedy_Florist_Test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="HackerRank_Interview_Kit_JAVA" />
       <option name="PACKAGE_NAME" value="" />
@@ -223,32 +253,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solver_Luck_Balance_Greedy_Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="HackerRank_Interview_Kit_JAVA" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Solver_Luck_Balance_Greedy_Test" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solver_Luck_Balance_Greedy_Test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="HackerRank_Interview_Kit_JAVA" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Solver_Luck_Balance_Greedy_Test" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solver_BFS_Search" />
+        <item itemvalue="JUnit.Solver_BFS_Search_Test.test" />
         <item itemvalue="JUnit.Solver_Greedy_Florist_Test.test" />
         <item itemvalue="JUnit.Solve_Max_Min_Greedy_Test.test" />
         <item itemvalue="JUnit.Solve_Max_Min_Greedy_Test" />
-        <item itemvalue="JUnit.Solver_Luck_Balance_Greedy_Test.test" />
-        <item itemvalue="JUnit.Solver_Luck_Balance_Greedy_Test" />
       </list>
     </recent_temporary>
   </component>
@@ -266,21 +277,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Solve_Max_Min_Greedy_Test_test - 2019.01.15 at 17h 12m 31s.xml">
-      <configuration name="Solve_Max_Min_Greedy_Test.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Solve_Max_Min_Greedy_Test_test - 2019.01.15 at 17h 12m 52s.xml">
-      <configuration name="Solve_Max_Min_Greedy_Test.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Solve_Max_Min_Greedy_Test_test - 2019.01.15 at 17h 19m 04s.xml">
-      <configuration name="Solve_Max_Min_Greedy_Test.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Solve_Max_Min_Greedy_Test_test - 2019.01.15 at 17h 19m 29s.xml">
-      <configuration name="Solve_Max_Min_Greedy_Test.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Solve_Max_Min_Greedy_Test_test - 2019.01.15 at 17h 20m 00s.xml">
-      <configuration name="Solve_Max_Min_Greedy_Test.test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Solver_Greedy_Florist_Test_test - 2019.01.16 at 16h 05m 29s.xml">
       <configuration name="Solver_Greedy_Florist_Test.test" configurationId="JUnit" />
     </history-entry>
@@ -296,12 +292,27 @@
     <history-entry file="Solver_Greedy_Florist_Test_test - 2019.01.16 at 16h 10m 05s.xml">
       <configuration name="Solver_Greedy_Florist_Test.test" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Solver_BFS_Search_Test_test - 2019.01.16 at 19h 36m 22s.xml">
+      <configuration name="Solver_BFS_Search_Test.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Solver_BFS_Search_Test_test - 2019.01.16 at 19h 50m 05s.xml">
+      <configuration name="Solver_BFS_Search_Test.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Solver_BFS_Search_Test_test - 2019.01.16 at 19h 55m 59s.xml">
+      <configuration name="Solver_BFS_Search_Test.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Solver_BFS_Search_Test_test - 2019.01.16 at 20h 11m 01s.xml">
+      <configuration name="Solver_BFS_Search_Test.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Solver_BFS_Search_Test_test - 2019.01.16 at 20h 14m 33s.xml">
+      <configuration name="Solver_BFS_Search_Test.test" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="34" width="1853" height="1046" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17990005" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18434203" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -310,15 +321,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27728286" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997773" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27728286" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3997773" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32962137" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32897604" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32850778" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="right" id="Maven" order="2" />
@@ -326,7 +337,7 @@
       <window_info anchor="right" id="Palette&#9;" order="4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="7" visible="true" weight="0.23431426" />
+      <window_info anchor="right" id="Ant Build" order="7" visible="true" weight="0.16935036" />
     </layout>
   </component>
   <component name="XDebuggerManager">
@@ -404,6 +415,54 @@
           <properties />
           <option name="timeStamp" value="17" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solver_BFS_Search.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solver_BFS_Search.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solver_BFS_Search.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solver_BFS_Search.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solver_BFS_Search.java</url>
+          <line>62</line>
+          <properties />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solver_BFS_Search.java</url>
+          <line>60</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solver_BFS_Search.java</url>
+          <line>61</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solver_BFS_Search.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -465,10 +524,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solve_Max_Min_Greedy_Test.java">
+    <entry file="file://$PROJECT_DIR$/src/Solver_Max_Min_Greedy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+        <state relative-caret-position="527">
+          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solver_Greedy_Florist.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solver_BFS_Search_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solver_Luck_Balance_Greedy_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="13" column="51" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -485,37 +565,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solver_Luck_Balance_Greedy_Test.java">
+    <entry file="file://$PROJECT_DIR$/src/Graph.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="13" column="51" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solver_Max_Min_Greedy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+        <state>
+          <caret selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Solver_Greedy_Florist_Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" column="56" lean-forward="true" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="56" />
+          <caret line="12" column="56" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="56" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solver_Greedy_Florist.java">
+    <entry file="file://$PROJECT_DIR$/src/Solve_Max_Min_Greedy_Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        <state relative-caret-position="340">
+          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solver_BFS_Search.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="49" column="69" selection-start-line="49" selection-start-column="69" selection-end-line="49" selection-end-column="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
